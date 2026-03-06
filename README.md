@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarthakrawat498
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Nodejs , DSA
+- 👀 I’m interested in Fullstack Development 
+- 🌱 I’m currently learning Java, Reactjs, Nodejs, DSA
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me - sarthakrawat498@gmail.com
 - 😄 Pronouns: He/Him
