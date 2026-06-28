@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me - sarthakrawat498@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: hehe
+- ⚡ Random fact: Once you start learning, you figure out that there is soooo much to explore and learn and this is what keeps me going 
 
 <!---
 sarthakrawat498/sarthakrawat498 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
